@@ -8,7 +8,7 @@ register, loudness, brightness and busyness follow the word from start to end.
 For `Simple`, that's high on **S**, a dip on **I**, a lift on **M/P**, then a
 fall into **E**.
 
-![screenshot](assets/icon.png)
+<img src="assets/icon.png" width="96" alt="Word Song Studio icon">
 
 ## Features
 
